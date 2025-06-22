@@ -11,11 +11,6 @@ Tested on ubuntu 24.04 container
 import keyring, secretstorage, argparse
 from keyring.backends import SecretService
 
-
-SVC='rrr'
-USER='rrrr'
-PASSWD='rrrr'
-
 class kr:
 
     def __init__(self,**kwargs):
