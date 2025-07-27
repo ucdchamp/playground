@@ -1,0 +1,3 @@
+python/gcleaner/token.json
+python/gcleaner/*.log
+python/gcleaner/*secret*
